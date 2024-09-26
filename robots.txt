@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://intranst.github.io/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/app/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/assets/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/css/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/data/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/includes/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/item/sitemap.intranst.gz
+Sitemap: https://intranst.github.io/src/sitemap.intranst.gz
